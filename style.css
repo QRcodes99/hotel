@@ -65,7 +65,7 @@ footer {
 
 /* Apply background image to the entire page */
 body {
-    background-image: url("background.jpg"); /* Adjust the path */
+    background-image: ("background.jpg"); /* Adjust the path */
     background-size: cover;  /* Cover the full screen */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repetition */
